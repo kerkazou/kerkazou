@@ -16,7 +16,6 @@ Kerkazou Zakaria</a></h1>
 - 👯 I’m looking to collaborate on web application projects.
 - 💬 Ask me about **PHP**.
 - 📫 Reach me at **kerkazou.zakaria@gmail.com**.
-- 📄 Know about my experiences Resume.
 - ⚡ Hubbies I like sporting, codding, music, travelling.
 - 📄 Know about my experiences <a href="https://github.com/kerkazou" target="blank">Resume</a>
 
