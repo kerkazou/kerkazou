@@ -2,7 +2,7 @@
 Kerkazou Zakaria</a></h1>
 <h2 align="center">Developer Web & Mobile</h3>
 
-<br><br>
+<br/><br/><br/><br/>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -16,7 +16,7 @@ Kerkazou Zakaria</a></h1>
 + ⚡ Hubbies I like sporting, codding, music, travelling.
 + 📄 Know about my experiences <a href="https://github.com/kerkazou" target="blank">Resume</a>.
 
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <div align="center">
 <h3>Visitor count</h3>
