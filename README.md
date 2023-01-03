@@ -5,13 +5,13 @@ Kerkazou Zakaria</a></h1>
 <br/><br/><br/><br/>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="450" alt="GIF" src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4">
 </a>
 
-+ 🌱 I’m currently learning PHP frameworks.
++ 🌱 I’m currently learning React js frameworks.
 + 🤝 I’m available for freelancing.
 + 👯 I’m looking to collaborate on web application projects.
-+ 💬 Ask me about **PHP**.
++ 💬 Ask me about **React js**.
 + 📫 Reach me at **kerkazou.zakaria@gmail.com**.
 + ⚡ Hubbies I like sporting, codding, music, travelling.
 + 📄 Know about my experiences <a href="https://github.com/kerkazou" target="blank">Resume</a>.
