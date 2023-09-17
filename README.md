@@ -8,7 +8,7 @@ Kerkazou Zakaria</a></h1>
   <img align="right" top="500" height="300" width="450" alt="GIF" src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4">
 </a>
 
-+ 🌱 I’m currently learning Reqct js frameworks.
++ 🌱 I’m currently learning React js frameworks.
 + 🤝 I’m available for freelancing.
 + 👯 I’m looking to collaborate on web application projects.
 + 💬 Ask me about **React js**.
