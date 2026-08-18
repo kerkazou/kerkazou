@@ -15,7 +15,7 @@ Kerkazou Zakaria</a></h1>
 + 👯 I’m looking to collaborate on web application projects.
 + 📫 Reach me at **kerkazou.zakaria@gmail.com**.
 + ⚡ Hubbies I like sporting, codding, music, travelling.
-+ 📄 Know about my experiences <a href="[https://kerkazo.me](https://portfolio-130.vercel.app/)" target="blank">Resume</a>.
++ 📄 Know about my experiences <a href="https://portfolio-130.vercel.app" target="blank">Resume</a>.
 
 <br/><br/><br/><br/><br/>
 
